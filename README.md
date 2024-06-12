@@ -1,3 +1,5 @@
+This reposiry contains the data and python scripts in support of the manuscript: A deep learning model of BACE-1 inhibitors to reveal molecular interactions using graph neural networks and convolutional neural networks.
+
 # Resources:
 
 + README.md: this file.
