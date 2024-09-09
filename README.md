@@ -1,4 +1,4 @@
-This reposiry contains the data and python scripts in support of the manuscript: A deep learning model of BACE-1 inhibitors to reveal molecular interactions using graph neural networks and convolutional neural networks.
+This reposiry contains the data and python scripts in support of the ICBBE'2024 paper: [A deep learning model of BACE-1 inhibitors to reveal molecular interactions using graph neural networks and convolutional neural networks](https://doi.org/10.1117/12.3044459 ).
 
 # Resources:
 
